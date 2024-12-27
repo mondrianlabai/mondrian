@@ -1,8 +1,8 @@
-# ZerePy
+# Mondrian
 
-ZerePy is an open-source Python framework designed to let you deploy your own agents on X, powered by OpenAI or Anthropic LLMs.
+Mondrian is an open-source Python framework designed to let you deploy your own agents on X, powered by OpenAI or Anthropic LLMs.
 
-ZerePy is built from a modularized version of the Zerebro backend. With ZerePy, you can launch your own agent with 
+Mondrian is built from a modularized version of the Zerebro backend. With ZerePy, you can launch your own agent with 
 similar core functionality as Zerebro. For creative outputs, you'll need to fine-tune your own model.
 
 ## Features
@@ -13,9 +13,7 @@ similar core functionality as Zerebro. For creative outputs, you'll need to fine
 
 ## Quickstart
 
-The quickest way to start using ZerePy is to use our Replit template:
-
-https://replit.com/@blormdev/ZerePy?v=1
+The quickest way to start using Mondrian is to use our Replit template
 
 1. Fork the template (you will need you own Replit account)
 2. Click the run button on top
